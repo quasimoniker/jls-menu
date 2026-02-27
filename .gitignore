@@ -1,0 +1,6 @@
+.env
+.venv/
+data/pdfs/
+data/transcripts/
+data/cleaned/
+data/chunks.json
