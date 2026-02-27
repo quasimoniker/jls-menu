@@ -5,7 +5,14 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-anthropic_client = anthropic.Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
+def get_secret(key: str) -> str:
+    try:
+        import streamlit as st
+        return st.secrets[key]
+    except Exception:
+        return os.getenv(key)
+    
+anthropic_client = anthropic.Anthropic(api_key=get_secret("ANTHROPIC_API_KEY"))
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CSV_FILE = os.path.join(BASE_DIR, "data", "menu_choices.csv")

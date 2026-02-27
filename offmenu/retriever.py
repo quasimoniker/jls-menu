@@ -10,11 +10,18 @@ PINECONE_INDEX = "offmenu"
 EMBEDDING_MODEL = "voyage-3-lite"
 TOP_K = 10  # number of chunks to retrieve
 
-voyage = voyageai.Client(api_key=os.getenv("VOYAGE_API_KEY"))
-pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
+def get_secret(key: str) -> str:
+    try:
+        import streamlit as st
+        return st.secrets[key]
+    except Exception:
+        return os.getenv(key)
+    
+voyage = voyageai.Client(api_key=get_secret("VOYAGE_API_KEY"))
+pc = Pinecone(api_key=get_secret("PINECONE_API_KEY"))
 index = pc.Index(PINECONE_INDEX)
-anthropic = Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
-
+anthropic = Anthropic(api_key=get_secret("ANTHROPIC_API_KEY"))
+    
 def find_episode_filter(question):
     # get all unique guests from pinecone by querying with a dummy vector
     # instead, we'll just check if any known guest name appears in the question

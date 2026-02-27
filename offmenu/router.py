@@ -4,7 +4,14 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-anthropic_client = anthropic.Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
+def get_secret(key: str) -> str:
+    try:
+        import streamlit as st
+        return st.secrets[key]
+    except Exception:
+        return os.getenv(key)
+    
+anthropic_client = anthropic.Anthropic(api_key=get_secret("ANTHROPIC_API_KEY"))
 
 ROUTER_PROMPT = """You are a routing assistant for a chatbot about the Off Menu podcast.
 The podcast has two types of data available:
