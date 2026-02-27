@@ -18,7 +18,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CSV_FILE = os.path.join(BASE_DIR, "data", "menu_choices.csv")
 CSV_NORMALISED_FILE = os.path.join(BASE_DIR, "data", "menu_choices_normalised.csv")
 
-MENU_COLUMNS = ["starter", "main", "dessert", "drink", "still_or_sparkling", "poppadoms_or_bread"]
+MENU_COLUMNS = ["starter", "main", "dessert", "drink", "still_or_sparkling", "poppadoms_or_bread", "side_dish"]
 CHRISTMAS_COLUMN = "christmas_dinner"
 ALL_CHOICE_COLUMNS = MENU_COLUMNS + [CHRISTMAS_COLUMN]
 
@@ -64,6 +64,7 @@ def find_target_column(question: str) -> str | None:
         "poppadom": "poppadoms_or_bread",
         "bread": "poppadoms_or_bread",
         "christmas": "christmas_dinner",
+        "side": "side_dish",
     }
     q = question.lower()
     for keyword, col in keyword_map.items():

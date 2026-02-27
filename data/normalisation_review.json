@@ -1,3089 +1,569 @@
 [
   {
     "pass": "pass1",
-    "column": "starter",
-    "row_index": 0,
-    "guest": "Ed Gamble and James Acaster (with special guest genie Claudia Winkleman)",
-    "original": "Tomato and Basil 3.0 from Atelier Crenn in San Francisco",
-    "normalised": "Tomato and Basil 3.0",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 2,
-    "guest": "Rafe Spall",
-    "original": "Tricolore salad, tuna nigiri, grilled halloumi, hummus with pita, watermelon duck and cashew salad, creamed polenta with mushrooms",
-    "normalised": "Tricolore salad, tuna nigiri, grilled halloumi, hummus with pita, watermelon duck and cashew salad, creamed polenta with mushrooms",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 7,
-    "guest": "Dan Aykroyd",
-    "original": "pecorino stilton and red pepper jelly, with pappardelle pesto",
-    "normalised": "pecorino stilton and pappardelle pesto",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 11,
-    "guest": "Bob Mortimer",
-    "original": "Odeon Cinema hot dog with ketchup and mustard, swirled together",
-    "normalised": "Odeon Cinema hot dog",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 16,
-    "guest": "Sarah Keyworth",
-    "original": "Crispy duck pancakes with hoisin sauce and cucumber (as close to real duck as possible, all you can eat), plus tapas: triple cooked patatas bravas and chilli and ginger glazed cauliflower",
-    "normalised": "crispy duck pancakes, patatas bravas, glazed cauliflower",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 22,
-    "guest": "Timothy Spall",
-    "original": "Mezze: ramekins of plain crisps with cubes of cheese, ramekin of peanuts, ramekin of olives, ramekin of Marmite crisp breads, deep-fried artichoke, fish goujons, and a big bowl of Padrón peppers",
-    "normalised": "mezze",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 23,
-    "guest": "Miquita Oliver",
-    "original": "A really good salad with radicchio, parsley, dandelion greens, watercress, and sorrel, with Oliver family oysters on the side, served with shallots, mustard, lemon, vinegar, and really good olive oil dressing",
-    "normalised": "salad with oysters",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
+    "column": "side_dish",
     "row_index": 31,
     "guest": "Fatiha El/Ghorri",
-    "original": "Hovis Granary toast with butter, six slices",
-    "normalised": "Hovis Granary toast",
+    "original": "Hummus Beiruti with lamb",
+    "normalised": "hummus Beiruti",
     "confidence": "medium"
   },
   {
     "pass": "pass1",
-    "column": "starter",
-    "row_index": 40,
-    "guest": "Kiri Pritchard/McLean",
-    "original": "Brussels sprouts with samphire, salt and pepper, gooey stuff from salt and pepper tofu, and vegan cream cheese",
-    "normalised": "Brussels sprouts",
+    "column": "side_dish",
+    "row_index": 57,
+    "guest": "Richard E Grant",
+    "original": "a big tub of home-made lemon mayonnaise",
+    "normalised": "lemon mayonnaise",
     "confidence": "medium"
   },
   {
     "pass": "pass1",
-    "column": "starter",
-    "row_index": 44,
-    "guest": "Adam Buxton",
-    "original": "Anything from Les Ambassadeurs restaurant in Paris, specifically the small artistic dishes served with flourish, such as breast of womble with lattice of fudge fingers or miniature towers with yummy dust",
-    "normalised": "Anything from Les Ambassadeurs restaurant in Paris, specifically the small artistic dishes served with flourish, such as breast of womble with lattice of fudge fingers or miniature towers with yummy dust",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 49,
-    "guest": "Taron Egerton",
-    "original": "Mushrooms in a bag from Social Eating House",
-    "normalised": "mushrooms in a bag",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 51,
-    "guest": "Professor Brian Cox",
-    "original": "Martian smoked salmon",
-    "normalised": "Martian smoked salmon",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 53,
-    "guest": "Felicity Ward",
-    "original": "Yoghurt explosion from Gaggan in Thailand",
-    "normalised": "yoghurt explosion",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
+    "column": "side_dish",
     "row_index": 62,
     "guest": "Chloe Petts",
-    "original": "Bruschetta (girlfriend menu) / Full mini fry-up with scrambled eggs, beans, sausage, bacon, hash browns, tattie scone, mushrooms, tomato, fried bread, black pudding, white pudding (ghost menu)",
-    "normalised": "Bruschetta (girlfriend menu) / Full mini fry-up with scrambled eggs, beans, sausage, bacon, hash browns, tattie scone, mushrooms, tomato, fried bread, black pudding, white pudding (ghost menu)",
+    "original": "Salad with fennel, orange and dill (girlfriend menu) / Cornbread, mac and cheese, collared greens, Texas toast, frickles, and vinegar-based coleslaw (ghost menu)",
+    "normalised": "Salad with fennel, orange and dill (girlfriend menu) / Cornbread, mac and cheese, collared greens, Texas toast, frickles, and vinegar-based coleslaw (ghost menu)",
     "confidence": "low"
   },
   {
     "pass": "pass1",
-    "column": "starter",
-    "row_index": 66,
-    "guest": "Alex Horne (Christmas Special)",
-    "original": "Crisps and dips (Pringles, McCoy's, Taytos cheese and onion or spring onion with chives) and Jules Watson's pork crackling and one hairless pork scratching",
-    "normalised": "Crisps and dips with pork crackling",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 73,
-    "guest": "Joe Cornish",
-    "original": "Bruschetta with tomatoes and olive oil from Rudolf Nureyev's private island off the Amalfi Coast",
-    "normalised": "Bruschetta with tomatoes and olive oil from Rudolf Nureyev's private island off the Amalfi Coast",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 75,
-    "guest": "Nick Mohammed",
-    "original": "Tortilla lasagna (Doritos, cheese, jalapenos, sour cream, sauces, chorizo)",
-    "normalised": "tortilla lasagna",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 88,
-    "guest": "Jenny Eclair",
-    "original": "Boneless fish platter with poached salmon dressed 1970s style with olive eyes and cucumber gills, smoked salmon, chargrilled octopus, lobster out of shell, massive prawns with loose shells, Hellman's Light mayonnaise, and crudites with radishes, celery, and cucumber",
-    "normalised": "Boneless fish platter with poached salmon dressed 1970s style with olive eyes and cucumber gills, smoked salmon, chargrilled octopus, lobster out of shell, massive prawns with loose shells, Hellman's Light mayonnaise, and crudites with radishes, celery, and cucumber",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 90,
-    "guest": "Celya AB",
-    "original": "Lamb bap bite from the Red Lion in Birmingham, bread dipped in mussel sauce from a French restaurant in Paris, sip of vegetable soup from a pub in Rotherhithe, two sips of Chorba",
-    "normalised": "Lamb bap bite from the Red Lion in Birmingham, bread dipped in mussel sauce from a French restaurant in Paris, sip of vegetable soup from a pub in Rotherhithe, two sips of Chorba",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 92,
-    "guest": "James Acaster and Ed Gamble with guest genie Rylan Clark",
-    "original": "Cheeseburger spring rolls from Disney World and Cull yaw kofte with schmaltz from Mangal 2",
-    "normalised": "cheeseburger spring rolls and kofte",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 94,
-    "guest": "Jimi Famurewa",
-    "original": "Trio of small sandwiches: mackerel peda from Mangal II, Dexter cheeseburger from the Plimsoll, and KFC Zinger Tower burger",
-    "normalised": "Trio of sandwiches",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 95,
-    "guest": "Paul Foot",
-    "original": "Quail and flat champagne aspic",
-    "normalised": "quail and champagne aspic",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 113,
-    "guest": "Elis James (Live)",
-    "original": "A big plate of Cumberland sausages cooked to dark brown perfection (like one minute before Elvis burns them in Fireman Sam) for the table, with ketchup. Also salmon sashimi with pickled ginger.",
-    "normalised": "Cumberland sausages and salmon sashimi",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 114,
-    "guest": "Nabil Abdulrashid",
-    "original": "Mixed meat and fish Balangu with masa bread",
-    "normalised": "Mixed meat and fish Balangu",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 119,
-    "guest": "John Robins (Live)",
-    "original": "George Egg's cuppy egg on veggie haggis with craft cheese slice, Kismet Mr Naga sauce, and mocha pot coffee with evaporated milk",
-    "normalised": "Cuppy egg on veggie haggis",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 128,
-    "guest": "Lucy Beaumont (Live)",
-    "original": "Little Aunt Bessie's Yorkshire puddings filled with intense cottage pie and gravy, and little Yorkshire puddings filled with mushroom soup and half red pepper, half yellow pepper soup",
-    "normalised": "Yorkshire puddings",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 140,
-    "guest": "Rhys Nicholson",
-    "original": "Anchovy toast from Carlton Wine Room and one oyster and a half Martini from Bar Margaux",
-    "normalised": "Anchovy toast and oyster",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 144,
-    "guest": "Sophie Willan",
-    "original": "Potato cake from Ye Olde Pasty Shop with cheese and potato pasty and meat and potato pasty",
-    "normalised": "Potato cake",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 152,
-    "guest": "Natalie Cassidy",
-    "original": "Arancini balls (arangenie balls) with bolognese in truffle butter sauce, and a bacon roll with white crusty roll, salted butter, unsmoked Ginger Pig back bacon, tomato sauce, and mayo, served with dad's cup of tea",
-    "normalised": "arancini balls and bacon roll",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 154,
-    "guest": "Josh Widdicombe",
-    "original": "Two slices of toast, granary bread, sliced thick by hand. One slice with butter and marmite, one slice with butter and marmalade.",
-    "normalised": "toast with marmite and marmalade",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 155,
-    "guest": "Rukmini Iyer",
-    "original": "Deep fried platter: pakoras (cauliflower, aubergine, potato), zucchini frittes, tempura prawns, homemade coriander chutney",
-    "normalised": "mixed pakoras and tempura",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 160,
-    "guest": "Robert Popper",
-    "original": "50/50 cereal (cornflakes and Rice Krispies) with honey and cold oat milk",
-    "normalised": "mixed cereal",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 166,
-    "guest": "Harris Dickinson",
-    "original": "Bread, honey roast ham, marmalade and warm butter from Whyte's",
-    "normalised": "ham sandwich with marmalade",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 167,
-    "guest": "Emily Campbell",
-    "original": "Buttermilk breaded chicken strips and wings with honey and sriracha sauce and garlic dip",
-    "normalised": "breaded chicken with sriracha",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 178,
-    "guest": "Bridget Christie (Tasting Menu)",
-    "original": "Tortilla lasagne",
-    "normalised": "tortilla lasagne",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 181,
-    "guest": "James Norton",
-    "original": "Best steamed asparagus in the world with best parmesan in the world, best olive oil in the world, best pine nuts in the world, and a tiny scotch egg",
-    "normalised": "asparagus with parmesan and scotch egg",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 193,
-    "guest": "Mae Martin",
-    "original": "Cornucopia of shrimp - shrimp tempura, shrimp dumplings, and fresh shrimp cocktail with red sauce",
-    "normalised": "shrimp selection",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 195,
-    "guest": "Jessica Fostekew",
-    "original": "Benito box with fresh calamari, big Scottish oyster with Tabasco and trimmings, and barbecued octopus",
-    "normalised": "Benito box",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "starter",
-    "row_index": 200,
-    "guest": "Flo & Joan",
-    "original": "Bucket of fantasy olives (Halkidiki olives, meaty, some stuffed with sun-dried tomato, mushroom, garlic, chorizo) in a seaside bucket / Thinly cut steak (6-7 types: rib-eye, tenderloin, sous vide chuck tail, sirloin, sirloin tip, hanger steak with marinade, steak tartare) with salt and pepper crust and garlic butter",
-    "normalised": "fantasy olives and steak selection",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 1,
-    "guest": "Julie Adenuga",
-    "original": "Ground Rice with Egusi Stew and Tomato Stew with beef, made by mum and dad",
-    "normalised": "Ground rice with egusi stew",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 2,
-    "guest": "Rafe Spall",
-    "original": "Spotted Pig cheeseburger (medium rare) with string fries, porterhouse steak cooked Chicago style, melanzane parmigiana, chicken burrito with guacamole",
-    "normalised": "Spotted Pig cheeseburger (medium rare) with string fries, porterhouse steak cooked Chicago style, melanzane parmigiana, chicken burrito with guacamole",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 11,
-    "guest": "Bob Mortimer",
-    "original": "Chicken vindaloo with chips and poppadoms, plus turbot on the side (shallow fried)",
-    "normalised": "Chicken vindaloo with turbot",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 14,
-    "guest": "Jamie Oliver",
-    "original": "Curry feast night with crab curry, chicken curry, paneer curry, naan and paratha",
-    "normalised": "Curry feast",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 19,
-    "guest": "Michelle Keegan",
-    "original": "Pesto linguine from the restaurant in Genoa with the same waiter, side of garlic bread with cheese, and build-your-own chip butty with really good chippy chips, salt and vinegar, curry sauce, gravy, mayo, Warburton's thick sliced bread with Lurpak",
-    "normalised": "Pesto linguine with chip butty",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 22,
-    "guest": "Timothy Spall",
-    "original": "Oxtail stew with chicken shashlik at the end",
-    "normalised": "Oxtail stew with shashlik",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 24,
-    "guest": "Jason Reitman",
-    "original": "Charlie's Back Door green chilli sour cream enchilada dipped in tempura batter",
-    "normalised": "Green chilli enchilada",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 29,
-    "guest": "Charlotte Church",
-    "original": "Japanese teppanyaki grill cooked by Stewart Lee and Mariah Carey",
-    "normalised": "Japanese teppanyaki grill cooked by Stewart Lee and Mariah Carey",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 40,
-    "guest": "Kiri Pritchard/McLean",
-    "original": "Picky bits: steamed rice with belly pork, roasted duck and char siu, prawn dicks (rice paper with king prawn), Linda McCartney fake chicken bucket, with roast garlic mayo, hollandaise, sriracha mayo, vegan honey soy sauce, and tarragon mayo",
-    "normalised": "Picky bits",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 41,
-    "guest": "Jamali Maddix",
-    "original": "Alligator and shrimp cheesecake from Jacques-Imos in New Orleans",
-    "normalised": "Alligator and shrimp cheesecake",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 50,
-    "guest": "Amy Gledhill",
-    "original": "Giant Yorkshire pudding filled with tarragon mash, roast chicken, honey roasted turnips, broccoli (air fryer crispy), garden peas, and seaweed",
-    "normalised": "Yorkshire pudding with chicken",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 52,
-    "guest": "Maisie Adam",
-    "original": "Granny's braising steak in the style of Prague goulash",
-    "normalised": "Prague goulash",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 54,
-    "guest": "Sir Lenny Henry",
-    "original": "Saturday soup (mutton soup with red peas, kidney beans, and hard food - yam, carrots, dumplings, potatoes)",
-    "normalised": "Mutton soup",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 56,
-    "guest": "Rylan Clark",
-    "original": "Four East End pies, flipped upside down with liquor and vinegar",
-    "normalised": "East End pies with liquor",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 59,
-    "guest": "Paul Chowdhry",
-    "original": "Pick e pepe (Cacio e Pepe) and Pipistrelli di Halloween (bat of cheese)",
-    "normalised": "Cacio e pepe",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 60,
-    "guest": "Rina Sawayama",
-    "original": "Beef rolls, dumplings, noodle soup, and wok-fried green beans from Mr. Dragon's Noodle House",
-    "normalised": "Beef noodle soup",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 62,
-    "guest": "Chloe Petts",
-    "original": "Pasta with pistachio pesto, cream and shrimp from A Putia in Sicily (girlfriend menu) / Barbecue: brisket, ribs (pork and beef), burnt ends, slow cooked turkey breast, jalapeno and cheddar sausage (ghost menu)",
-    "normalised": "Pistachio pesto pasta with shrimp",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 66,
-    "guest": "Alex Horne (Christmas Special)",
-    "original": "Penne pasta with pesto from a jar, Boursin, one Frankfurter sliced, and cheddar. Second main: Jamie Oliver's pork roll from service stations",
-    "normalised": "Penne with pesto and Frankfurter",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 75,
-    "guest": "Nick Mohammed",
-    "original": "Christmas dinner roast with dry lamb, Bisto gravy, minty Yorkshire puddings, rice, leftover Chinese takeaway (beef satay, chicken fried rice, chicken chow mien), pigs in blankets, meatball, stuffed vine leaf, carrots, parsnips, peas, sweetcorn, green beans, roast potatoes, hot pepper sauce, sloppy stuffing, and half a raw white onion with French mustard on green beans and lemon on chicken",
-    "normalised": "Christmas dinner with lamb",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 76,
-    "guest": "Florence Pugh",
-    "original": "Stifado stew with chips in a ceramic bowl, granny's Christmas Day goose meat, and dad's confit duck with creamy mashed potato, red cabbage with raisins, and dark gravy",
-    "normalised": "Stifado stew with duck",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 77,
-    "guest": "John Kearns",
-    "original": "Medium rare butler's steak with chips and poulet au champagne",
-    "normalised": "Steak with poulet au champagne",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 78,
-    "guest": "Lily Allen",
-    "original": "Chicken and yoghurt, rice, moong dal, pumpkin and yoghurt from Afghan Kitchen",
-    "normalised": "Afghan chicken and yoghurt",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 87,
-    "guest": "Toheeb Jimoh",
-    "original": "Penne pasta in tomato sauce with assorted meats and something fishy",
-    "normalised": "Penne pasta",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 91,
-    "guest": "Scroobius Pip",
-    "original": "Meadsy base pizza (medium, thin crust with cheese encased base, stuffed crust, tomato sauce, ham topping)",
-    "normalised": "Stuffed crust pizza",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 95,
-    "guest": "Paul Foot",
-    "original": "Wagyu fillet steak, quite rare, with poppadom-flavoured cherry cola sauce",
-    "normalised": "Wagyu fillet steak",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 97,
-    "guest": "Jordan Gray",
-    "original": "Chicken kebab, chips with burger sauce, and cheeseburger from Orsett Best Kebab",
-    "normalised": "Chicken kebab",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 100,
-    "guest": "Izuka Hoyle",
-    "original": "Nigerian jollof rice, assam goat meat, porridge yam, puff puff, plantain",
-    "normalised": "Nigerian jollof rice",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 104,
-    "guest": "Garth Marenghi",
-    "original": "Beef - a piece from every part of the carcass (heart, guts, but not the balls), medium rare except the heart which should be rare",
-    "normalised": "Beef - a piece from every part of the carcass (heart, guts, but not the balls), medium rare except the heart which should be rare",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 105,
-    "guest": "Harriet Kemsley",
-    "original": "Podana pizza with hole in the middle and salad",
-    "normalised": "Podana pizza",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 113,
-    "guest": "Elis James (Live)",
-    "original": "Sea bass with steamed spinach with nutmeg, green beans, Tenderstem broccoli, and dauphinoise potatoes, plus a 50p-sized disk of steak with English mustard",
-    "normalised": "Sea bass with vegetables",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 117,
-    "guest": "Susan Wokoma (Live)",
-    "original": "Truffle pasta from Paoli in Florence and okra soup",
-    "normalised": "Truffle pasta",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 130,
-    "guest": "Jessica Knappett (Live)",
-    "original": "Bastard cake (Jude Knappett's pasta bake)",
-    "normalised": "Bastard cake",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 133,
-    "guest": "Carrie Brownstein",
-    "original": "Eight to ten homemade tacos (hard shell and soft shell), heavy on dairy (sour cream and cheddar cheese), light on protein, with a side of spaghetti bolognese",
-    "normalised": "Tacos with spaghetti bolognese",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 136,
-    "guest": "Tommy Tiernan (Live)",
-    "original": "Roast potatoes, roast parsnips, honey glazed carrots (burnt so they're annoyed at you), with a chicken in the shape of a baby if possible, and a glass of whiskey that's too expensive",
-    "normalised": "Roast chicken with vegetables",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 138,
-    "guest": "Ardal O'Hanlon (Live)",
-    "original": "Stinky beef with normal trimmings, cauliflower cheese sauce, roasted sprouts with parmesan and balsamic, honey glazed carrots, and Yorkshire pudding",
-    "normalised": "Stinky beef",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 141,
-    "guest": "Patti Harrison",
-    "original": "3D printed chicken congee",
-    "normalised": "3D printed chicken congee",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 149,
-    "guest": "Phil Dunster",
-    "original": "Rapid Ragù (lamb and pancetta with Marsala)",
-    "normalised": "Rapid Ragù",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 157,
-    "guest": "Ella Purnell",
-    "original": "Spy Kids memory burger",
-    "normalised": "Spy Kids memory burger",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 160,
-    "guest": "Robert Popper",
-    "original": "Square steak with paprika flour crust, boiled potatoes, and green beans",
-    "normalised": "square steak",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 162,
-    "guest": "Olga Koch",
-    "original": "Lamb (xaniid) from Al Kahf, Whitechapel",
-    "normalised": "lamb xaniid",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 171,
-    "guest": "Robert De Niro",
-    "original": "Wagyu Wellington with duck brains in original duck skull, crickets, and ants",
-    "normalised": "Wagyu Wellington with duck brains in original duck skull, crickets, and ants",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 176,
-    "guest": "Sally Phillips",
-    "original": "Fire-cooked fresh fish on a beach",
-    "normalised": "Fire-cooked fresh fish on a beach",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 178,
-    "guest": "Bridget Christie (Tasting Menu)",
-    "original": "Christmas dinner roast with lamb, gravy, Yorkshire puddings, rice, leftover Chinese food, pigs in blankets, meatballs, stuffed vine leaves, carrots, parsnips, peas, sweetcorn, green beans, roast potatoes, hot pepper sauce, raw onion, and sloppy stuffing",
-    "normalised": "Christmas dinner roast with lamb, gravy, Yorkshire puddings, rice, leftover Chinese food, pigs in blankets, meatballs, stuffed vine leaves, carrots, parsnips, peas, sweetcorn, green beans, roast potatoes, hot pepper sauce, raw onion, and sloppy stuffing",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 179,
-    "guest": "Jeff Goldblum",
-    "original": "Around the world in pasta",
-    "normalised": "Around the world in pasta",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 180,
-    "guest": "Joanne McNally",
-    "original": "Potato waffle boat filled with two-minute noodles (chicken and curry flavored), floating in a river of butter, with a goujon anchor and a Pringle sail",
-    "normalised": "Potato waffle boat filled with two-minute noodles (chicken and curry flavored), floating in a river of butter, with a goujon anchor and a Pringle sail",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 181,
-    "guest": "James Norton",
-    "original": "Wood-flame grilled halibut steak, prawns, scallops with fruity salsa and lime, on a beach in Jamaica",
-    "normalised": "grilled halibut and seafood",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 185,
-    "guest": "Sharon Wanjohi",
-    "original": "Mother's cooking from summer 2007 - Kenyan food including mukimo (mash with spinach and maize), chapati, and beef stew",
-    "normalised": "Mother's cooking from summer 2007 - Kenyan food including mukimo (mash with spinach and maize), chapati, and beef stew",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 188,
-    "guest": "Will Sharpe",
-    "original": "Kaiseki-style tray with tofu, Genmai Flakes cereal, Kellogg's Kombos cereal, pickled daikon, white fish, cold soba noodles with nori and tempura, unagi, natto, green vegetables, small piece of beef, small okonomiyaki, koala biscuits, Hello Panda, and Japanese convenience store items",
-    "normalised": "Kaiseki-style tray with tofu, Genmai Flakes cereal, Kellogg's Kombos cereal, pickled daikon, white fish, cold soba noodles with nori and tempura, unagi, natto, green vegetables, small piece of beef, small okonomiyaki, koala biscuits, Hello Panda, and Japanese convenience store items",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 190,
-    "guest": "Richard Osman",
-    "original": "Christmas dinner from late '70s/early '80s - turkey, beef, roast potatoes, no vegetables",
-    "normalised": "Christmas dinner from late '70s/early '80s - turkey, beef, roast potatoes, no vegetables",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 200,
-    "guest": "Flo & Joan",
-    "original": "Iberico char siu pork with sugar skin and clay pot of rice / Selection of spicy curries (madras, jalfrezi, curry with fresh green chilli), tikka masala, with pashwari naan, pilau rice, poppadoms, all the chutneys, onion salad, lime pickle, mango chutney, and mum's spaghetti bolognese (small portion)",
-    "normalised": "Iberico char siu pork / spicy curries",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "main",
-    "row_index": 201,
-    "guest": "Alison Spittle",
-    "original": "Pasta cream bean dream",
-    "normalised": "Pasta cream bean dream",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 0,
-    "guest": "Ed Gamble and James Acaster (with special guest genie Claudia Winkleman)",
-    "original": "Triple layer chocolate cake with freeze dried raspberries, salted caramel cream, white chocolate ganache, and fondant icing (made by flatmates in 2018), with mother's homemade peanut butter slice cream",
-    "normalised": "Chocolate layer cake",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 7,
-    "guest": "Dan Aykroyd",
-    "original": "mocha dacquoise, lemon squares, black velvet cake, black forest cake, espresso martini with Crystal Head, cigar with Chateau d'Yquem, brandy, or Signal Hill whiskey, two gram Chernobyl pre-roll sativa blunt, plain donuts rolled in butter and grilled",
-    "normalised": "mocha dacquoise, lemon squares, black velvet cake, black forest cake, espresso martini with Crystal Head, cigar with Chateau d'Yquem, brandy, or Signal Hill whiskey, two gram Chernobyl pre-roll sativa blunt, plain donuts rolled in butter and grilled",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 9,
-    "guest": "Simon Amstell",
-    "original": "Boyfriend's courgette chocolate cake with vanilla ice cream",
-    "normalised": "Courgette chocolate cake",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 10,
-    "guest": "Shaparak Khorsandi",
-    "original": "Chocolate sponge and chocolate sauce pudding from 1980s school dinners served by Edie, the 1980s dinner lady",
-    "normalised": "Chocolate sponge pudding",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 16,
-    "guest": "Sarah Keyworth",
-    "original": "A mouthful of someone else's dessert (any dessert, doesn't matter what it is)",
-    "normalised": "A mouthful of someone else's dessert (any dessert, doesn't matter what it is)",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 18,
-    "guest": "Jeff Rosenstock",
-    "original": "Wattamelon roll from Friendly's",
-    "normalised": "Wattamelon roll",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 22,
-    "guest": "Timothy Spall",
-    "original": "Notarianni's vanilla and chocolate ice cream, banana split, followed by a cheeseboard",
-    "normalised": "Vanilla and chocolate ice cream",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 24,
-    "guest": "Jason Reitman",
-    "original": "Hungarian pastry kugelhopf",
-    "normalised": "Kugelhopf",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 29,
-    "guest": "Charlotte Church",
-    "original": "Toasted marshmallows around an open fire with hot chocolate, melted chocolate dipping sauce, and home-grown berries (strawberries, grapes, raspberries, blueberries, and bananas)",
-    "normalised": "Toasted marshmallows",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 33,
-    "guest": "Dane Baptiste",
-    "original": "Chocolate fondant with matcha filling, fruit sorbet, and selection of fruits (melon boats, persimmons, passion fruit, dragon fruit, star apples) all infused with CBD",
-    "normalised": "Chocolate fondant",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 35,
-    "guest": "Claudia Jessie",
-    "original": "Eight dinky doughnuts from Little Chef and one jumbo dinky doughnut with hot chocolate sauce",
-    "normalised": "Doughnuts",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 40,
-    "guest": "Kiri Pritchard/McLean",
-    "original": "Dessert sliders with stollen, Dark Matters brownie (cherry), mum's Christmas cake with double marzipan, clotted cream",
-    "normalised": "Dessert sliders",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 44,
-    "guest": "Adam Buxton",
-    "original": "Gu-Zillionaire cheesecake pudding (1.5 times the size)",
-    "normalised": "Gu-Zillionaire cheesecake pudding",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 58,
-    "guest": "Richard Ayoade",
-    "original": "Fabulous Ice Fires selection of ice creams and a selection of fruit",
-    "normalised": "Ice cream and fruit",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 65,
-    "guest": "Mel Giedroyc (Christmas Special)",
-    "original": "Pyramid of Ferrero Rocher and Taskmaster exotic sandwich",
-    "normalised": "Pyramid of Ferrero Rocher and Taskmaster exotic sandwich",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
+    "column": "side_dish",
     "row_index": 67,
     "guest": "Paul Mescal",
-    "original": "Skillet of half-baked thick cookie dough with a chocolate lava cake on top, poured over with double cream",
-    "normalised": "Cookie dough and lava cake",
+    "original": "Chicken wings with buffalo sauce and double fried chips from Elephant and Castle Dublin circa the 2010s, with additional double fried chips from the Nomad hotel with mustard seed sauce",
+    "normalised": "buffalo chicken wings",
     "confidence": "medium"
   },
   {
     "pass": "pass1",
-    "column": "dessert",
-    "row_index": 72,
-    "guest": "Cariad Lloyd",
-    "original": "Marigold custard with wild Swedish blueberries, bee pollen, and lavender honey from Amass in Copenhagen; Bramley apple soufflé with salted caramel ice cream from The Sportsman; homemade pavlova with raspberries, passion fruit, and mint; raspberry and pistachio frangipane from Mamie Gâteaux in Paris; Italian hot chocolate; homemade Rolos from Hawksmoor; Pierre Hermé macarons (passion fruit and chocolate)",
-    "normalised": "Marigold custard; apple soufflé; pavlova; frangipane; hot chocolate; Rolos; macarons",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 76,
-    "guest": "Florence Pugh",
-    "original": "Tiramisu, affogato with Lotus biscuit, Pret banana cake",
-    "normalised": "Tiramisu; affogato; banana cake",
+    "column": "side_dish",
+    "row_index": 68,
+    "guest": "Kathy Burke",
+    "original": "A medley of steamed broccoli, spinach and peas",
+    "normalised": "steamed vegetable medley",
     "confidence": "medium"
   },
   {
     "pass": "pass1",
-    "column": "dessert",
-    "row_index": 88,
-    "guest": "Jenny Eclair",
-    "original": "Cheese board with surprise Babybels filled with nice cheese, mature cheddar, fig chutney, Pink Lady apples, port, and Gaviscon chaser",
-    "normalised": "Cheeseboard",
+    "column": "side_dish",
+    "row_index": 69,
+    "guest": "Fern Brady",
+    "original": "Bubala confit potato latkes",
+    "normalised": "Bubala confit potato latkes",
     "confidence": "medium"
   },
   {
     "pass": "pass1",
-    "column": "dessert",
+    "column": "side_dish",
+    "row_index": 73,
+    "guest": "Joe Cornish",
+    "original": "grated cold carrot with crumbly, nutty shit that makes it delicious",
+    "normalised": "grated cold carrot",
+    "confidence": "medium"
+  },
+  {
+    "pass": "pass1",
+    "column": "side_dish",
+    "row_index": 75,
+    "guest": "Nick Mohammed",
+    "original": "cauliflower cheese or macaroni cheese",
+    "normalised": "cauliflower cheese",
+    "confidence": "medium"
+  },
+  {
+    "pass": "pass1",
+    "column": "side_dish",
+    "row_index": 86,
+    "guest": "Judi Love",
+    "original": "sauteed spinach and fondant potatoes with heritage carrots",
+    "normalised": "sautéed spinach and potatoes",
+    "confidence": "medium"
+  },
+  {
+    "pass": "pass1",
+    "column": "side_dish",
     "row_index": 90,
     "guest": "Celya AB",
-    "original": "Reconstructed tiramisu, Paris-Brest, Sachertorte from Kipferl, peppermint and liquorice tea, Happy Hippo one hour after the meal",
-    "normalised": "Tiramisu; Paris-Brest; Sachertorte",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 94,
-    "guest": "Jimi Famurewa",
-    "original": "Ice cream sundae with toasted rice gelato from Superiority Burger, Wendy's Frosty, hot fudge sauce, Marksman brown butter custard tart crumbled over it, and Happy Endings malted ice cream sandwich, followed by a custardo from Forza Win",
-    "normalised": "Ice cream sundae",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 95,
-    "guest": "Paul Foot",
-    "original": "Souffle that changes flavour with every mouthful - rambutan, lychee, passion fruit, dragon fruit, violet, rose, bubblegum, sour cherry, and Green Cola sour cherry flavour",
-    "normalised": "Souffle that changes flavour with every mouthful - rambutan, lychee, passion fruit, dragon fruit, violet, rose, bubblegum, sour cherry, and Green Cola sour cherry flavour",
+    "original": "Chicken wings from Shack Fuyu, square of lasagne, pork bao buns, shredded sweet seaweed from Bao, cup of pork ramen",
+    "normalised": "Chicken wings from Shack Fuyu, square of lasagne, pork bao buns, shredded sweet seaweed from Bao, cup of pork ramen",
     "confidence": "low"
   },
   {
     "pass": "pass1",
-    "column": "dessert",
+    "column": "side_dish",
+    "row_index": 93,
+    "guest": "Angela Barnes",
+    "original": "Deluxe poutine from Ziggy Peelgood's, Newfoundland (with dressing) and McDonald's hot apple pie",
+    "normalised": "poutine",
+    "confidence": "medium"
+  },
+  {
+    "pass": "pass1",
+    "column": "side_dish",
+    "row_index": 95,
+    "guest": "Paul Foot",
+    "original": "Dover sole sashimi",
+    "normalised": "Dover sole sashimi",
+    "confidence": "medium"
+  },
+  {
+    "pass": "pass1",
+    "column": "side_dish",
     "row_index": 96,
     "guest": "Carol Vorderman",
-    "original": "Afternoon tea (tiered with dry ice, sandwiches removed) with mini Eton mess, mini trifle, lemon meringue, ice cream, and Viennese whirl dipped in chocolate",
-    "normalised": "Afternoon tea",
+    "original": "Lovely tomatoes and red onions, and mashed potatoes with microwaved sprouts, salt, pepper and Welsh butter",
+    "normalised": "tomatoes, onions and mashed potatoes",
     "confidence": "medium"
   },
   {
     "pass": "pass1",
-    "column": "dessert",
-    "row_index": 97,
-    "guest": "Jordan Gray",
-    "original": "A pound's worth of lemon sherbet in edible sugar paper like a gyoza, with the Pussy Pig poured over it",
-    "normalised": "A pound's worth of lemon sherbet in edible sugar paper like a gyoza, with the Pussy Pig poured over it",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 98,
-    "guest": "AJ Odudu",
-    "original": "Custard and cake, brought at midnight by her dad",
-    "normalised": "Custard and cake",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 102,
-    "guest": "Paapa Essiedu",
-    "original": "Freshly made Percy Ingles sugar ring doughnut on a bed of Biscock rock ice cream from Romeo & Giulietta",
-    "normalised": "Percy Ingles sugar ring doughnut",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 103,
-    "guest": "Steve Coogan",
-    "original": "Rhubarb dessert with rhubarb done four different ways (rhubarb jelly, blitzed rhubarb, sliced rhubarb) from Hipping Hall, or trifle",
-    "normalised": "Rhubarb dessert",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 108,
-    "guest": "Dawn French",
-    "original": "Assiette of desserts: tiramisu, lemon meringue, chocolate mousse, pistachio cannoli, and a segment of Terry's Chocolate Orange, served with black coffee",
-    "normalised": "Assiette of desserts",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 111,
-    "guest": "Jamelia (Live)",
-    "original": "Deconstructed apple crumble with custard foam, sponge sugar inside a chocolate sphere with smoke coming out of it",
-    "normalised": "Deconstructed apple crumble",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 123,
-    "guest": "Iain Stirling (Live)",
-    "original": "Floating pillow with cheeseboard (Cheddar, Stilton, Manchego, Emmerdale, Babybel, Brie, and smoked cheese), plus Dairylea Dunker",
-    "normalised": "Floating pillow with cheeseboard",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 129,
-    "guest": "Katy Wix",
-    "original": "Three tier cake stand with giant strawberries and white chocolate buttons, small piece of cheesecake, and apple crumble",
-    "normalised": "Three tier cake stand",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 131,
-    "guest": "Killer Mike",
-    "original": "Carrot cake, lemon meringue pie from Edwards, Shay's peach cobbler",
-    "normalised": "Carrot cake",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 154,
-    "guest": "Josh Widdicombe",
-    "original": "Christmas chocolates: Lindt balls (mixed, no dark ones), After Eights, Matchmakers (mint), Celebrations, Toblerone (original flavour, traditional size).",
-    "normalised": "Christmas chocolates",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 164,
-    "guest": "Rose Matafeo (Christmas Special)",
-    "original": "Australian Woman's Weekly children's cake book trolley - pool cake, train cake, Dolly Varden cake, number cakes",
-    "normalised": "Australian Woman's Weekly children's cake book trolley - pool cake, train cake, Dolly Varden cake, number cakes",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 165,
-    "guest": "Andy Zaltzman (Christmas Special)",
-    "original": "Pistachio ice cream and black fruit sorbet from Giolitti in Rome, vanilla ice cream with Pedro Ximinez sherry, followed by cheeseboard from Chez Bruce",
-    "normalised": "pistachio ice cream and sorbet",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 171,
-    "guest": "Robert De Niro",
-    "original": "Pistachio ice cream, River Café lemon tart, and cheeseboard",
-    "normalised": "pistachio ice cream",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 176,
-    "guest": "Sally Phillips",
-    "original": "Hot chocolate fondant with porcini mushrooms and wild strawberries on the Matterhorn at Heidi's house",
-    "normalised": "chocolate fondant",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 177,
-    "guest": "Santiago Lastra",
-    "original": "Santiago's cheesecake (baked cheesecake with cookie base, condensed milk, evaporated milk, fresh cheese, vanilla, eggs, and blackberry jam on top); slice of watermelon at the after-party",
-    "normalised": "Santiago's cheesecake",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 179,
-    "guest": "Jeff Goldblum",
-    "original": "All the desserts in a buffet",
-    "normalised": "All the desserts in a buffet",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 180,
-    "guest": "Joanne McNally",
-    "original": "Tom Hardy topless on a penny farthing bike with a sidecar of desserts: macaroons, French fancies, gelato (multiple flavors), profiteroles, and chocolate biscuit cake",
-    "normalised": "Tom Hardy topless on a penny farthing bike with a sidecar of desserts: macaroons, French fancies, gelato (multiple flavors), profiteroles, and chocolate biscuit cake",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 185,
-    "guest": "Sharon Wanjohi",
-    "original": "Fried chicken ice cream (vanilla) in a bucket with fake drumsticks, followed by a classic brownie",
-    "normalised": "fried chicken ice cream",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 197,
-    "guest": "Rosie Jones",
-    "original": "Sweets in individual bowls: Moams, jelly babies, jelly beans, dolly mixture, strawberry laces, rainbow pencils, chocolate buttons, revels, chocolate pretzels, white chocolate mice",
-    "normalised": "sweets selection",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "dessert",
-    "row_index": 200,
-    "guest": "Flo & Joan",
-    "original": "Bowl of stale Wotsits and stale Chipsticks / Pick-n-mix (old/slightly aged from Woolworths style shop) with Willy Wonka chocolate river teacup (pre-Gloop, with a bit of Gloop in it), fried eggs, strawberry laces, big snakes, pink bottles with white foam, Razzles, pink chocolate piggies, wine gums (old ones), berries, smiley faces, spiders/octopuses with jelly, cola bottles (traditional and cherry)",
-    "normalised": "Bowl of stale Wotsits and stale Chipsticks / Pick-n-mix (old/slightly aged from Woolworths style shop) with Willy Wonka chocolate river teacup (pre-Gloop, with a bit of Gloop in it), fried eggs, strawberry laces, big snakes, pink bottles with white foam, Razzles, pink chocolate piggies, wine gums (old ones), berries, smiley faces, spiders/octopuses with jelly, cola bottles (traditional and cherry)",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 3,
-    "guest": "Bimini Bon Boulash",
-    "original": "Chilli salted frozen Margarita",
-    "normalised": "frozen margarita",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 7,
-    "guest": "Dan Aykroyd",
-    "original": "Bar Car martini (Crystal Head vodka with ice chips in tumbler with lemon rind, pearl onion or olive), Chateau Margaux red wine, Paul Myer white Chardonnay, espresso martini with Crystal Head, Patron XO",
-    "normalised": "vodka martini, Château Margaux, Chardonnay, espresso martini, Patrón XO",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 11,
-    "guest": "Bob Mortimer",
-    "original": "Minus twenty degree citrusy IPA",
-    "normalised": "citrusy IPA",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 19,
-    "guest": "Michelle Keegan",
-    "original": "Pina colada pre-meal, orange cordial during meal, Picanti after main course, bread and butter Chardonnay with dessert",
-    "normalised": "piña colada, Chardonnay",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 21,
-    "guest": "Jack Dee",
-    "original": "Booze, preferably beer or real ale",
-    "normalised": "beer or real ale",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 22,
-    "guest": "Timothy Spall",
-    "original": "Marks & Spencer's fizzy cranberry lemonade and boiling hot Robinsons apple and blackcurrant squash with lemon juice",
-    "normalised": "cranberry lemonade, fruit squash",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 25,
-    "guest": "Bridget Christie",
-    "original": "Ten lavender cocktails from Soho Hotel",
-    "normalised": "lavender cocktail",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 33,
-    "guest": "Dane Baptiste",
-    "original": "Dirty milkshake with Oatly strawberry ice cream, oat milk, jam, crushed ice, and double shot of Jack Daniel's honey bourbon",
-    "normalised": "dirty milkshake",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 38,
-    "guest": "Siobhán McSweeney",
-    "original": "Frozen margarita with chilli Dorito dust around the rim",
-    "normalised": "frozen margarita",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 42,
-    "guest": "Sikisa",
-    "original": "June bug from TGI Fridays",
-    "normalised": "June bug",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 52,
-    "guest": "Maisie Adam",
-    "original": "Chock-work orange (chocolate orange cocktail with vodka, triple sec, chocolate sauce, orange bitters, and half and half)",
-    "normalised": "Chock-work orange",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 53,
-    "guest": "Felicity Ward",
-    "original": "Son-in-law egg guy's drink (mint, passion fruit, pineapple and orange juice, possibly ginger beer)",
-    "normalised": "Son-in-law egg guy's drink",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 65,
-    "guest": "Mel Giedroyc (Christmas Special)",
-    "original": "Pyramid of Bacardi and diet Coke",
-    "normalised": "Bacardi and diet Coke",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 66,
-    "guest": "Alex Horne (Christmas Special)",
-    "original": "Moules marinière juice mixed with bread sauce and a glug of Baileys in an engraved pewter tankard at room temperature",
-    "normalised": "Moules marinière juice mixed with bread sauce and a glug of Baileys in an engraved pewter tankard at room temperature",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 67,
-    "guest": "Paul Mescal",
-    "original": "Sergeant Pepper cocktail (tequila, jalapeño, coriander, pineapple) from the Nomad hotel",
-    "normalised": "Sergeant Pepper cocktail",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 69,
-    "guest": "Fern Brady",
-    "original": "Baron de Balzac Caringion red wine",
-    "normalised": "Baron de Balzac Caringion",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 75,
-    "guest": "Nick Mohammed",
-    "original": "111 out of 10 Oregon Riesling (very cold) and Coca-Cola, alternating between the two",
-    "normalised": "111 out of 10 Oregon Riesling",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 81,
-    "guest": "Kiell Smith Bynoe",
-    "original": "Cherry vanilla old fashioned",
-    "normalised": "Cherry vanilla old fashioned",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 85,
-    "guest": "Tim Minchin",
-    "original": "Heavy, dry earth Australian red wine",
-    "normalised": "Australian red wine",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 90,
-    "guest": "Celya AB",
-    "original": "Peachy, orangey cocktail with sugar around the glass from a Birmingham fashion show in Digbeth",
-    "normalised": "Peachy, orangey cocktail",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 91,
-    "guest": "Scroobius Pip",
-    "original": "Scroobius 2018 (Slingsby Rhubarb Gin and Pepsi Max, double measure, flat, with lots of ice)",
-    "normalised": "Scroobius",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 93,
-    "guest": "Angela Barnes",
-    "original": "Jug of husband's chilli margarita with salt rim",
-    "normalised": "Chilli margarita",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 97,
-    "guest": "Jordan Gray",
-    "original": "Pussy Pig (Jägerbomb with Pussy energy drink)",
-    "normalised": "Pussy Pig",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
+    "column": "side_dish",
     "row_index": 100,
     "guest": "Izuka Hoyle",
-    "original": "Strawberry daiquiri, Californian Cabernet Sauvignon, Rioja from Spain",
-    "normalised": "strawberry daiquiri",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 104,
-    "guest": "Garth Marenghi",
-    "original": "One goblet of soft wine and one goblet of hard beer",
-    "normalised": "One goblet of soft wine and one goblet of hard beer",
+    "original": "side salad from Sienna and prawn tempura sushi from Renee",
+    "normalised": "side salad from Sienna and prawn tempura sushi from Renee",
     "confidence": "low"
   },
   {
     "pass": "pass1",
-    "column": "drink",
+    "column": "side_dish",
+    "row_index": 103,
+    "guest": "Steve Coogan",
+    "original": "fresh tomatoes with olive oil, salt and pepper, fresh white bread. Maybe some mozzarella if you're feeling like it",
+    "normalised": "tomatoes with bread",
+    "confidence": "medium"
+  },
+  {
+    "pass": "pass1",
+    "column": "side_dish",
     "row_index": 105,
     "guest": "Harriet Kemsley",
-    "original": "Hun sauvignon blanc in a can",
-    "normalised": "Sauvignon Blanc",
+    "original": "James Jules and the Giant Peach waffle from Utter Waffle (caramelised peach, cinnamon frosting, cream cheese, and veggie bacon)",
+    "normalised": "James Jules and the Giant Peach waffle",
     "confidence": "medium"
   },
   {
     "pass": "pass1",
-    "column": "drink",
-    "row_index": 110,
-    "guest": "Jada Pinkett Smith",
-    "original": "Lavender lemonade with vodka",
-    "normalised": "Lavender lemonade",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 111,
-    "guest": "Jamelia (Live)",
-    "original": "Sexy juice and carrot juice",
-    "normalised": "Sexy juice and carrot juice",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 112,
-    "guest": "Peter Capaldi",
-    "original": "ginger and elder flower from Floral Hall",
-    "normalised": "ginger and elder flower",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
+    "column": "side_dish",
     "row_index": 113,
     "guest": "Elis James (Live)",
-    "original": "V60 hand-brewed coffee made with Panamanian Geisha beans made by James Hoffmann, a can of Grolsch, and a pint of Ribena",
-    "normalised": "V60 hand-brewed coffee made with Panamanian Geisha beans made by James Hoffmann, a can of Grolsch, and a pint of Ribena",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 115,
-    "guest": "Mathew Baynton (Live)",
-    "original": "Vieux Carré cocktail at the bar, Norton Torrontes white wine with the meal, gin with elderflower liqueur and lime as water course replacement, Amaro digestif at the end",
-    "normalised": "Vieux Carré cocktail at the bar, Norton Torrontes white wine with the meal, gin with elderflower liqueur and lime as water course replacement, Amaro digestif at the end",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 117,
-    "guest": "Susan Wokoma (Live)",
-    "original": "A Craig David (tequila with pineapple juice chaser, or a long version with a single or double tequila and orange juice)",
-    "normalised": "Craig David",
+    "original": "a box of Milk Tray, third tier just Turkish delight",
+    "normalised": "Milk Tray Turkish delight",
     "confidence": "medium"
   },
   {
     "pass": "pass1",
-    "column": "drink",
-    "row_index": 118,
-    "guest": "Noel Fielding",
-    "original": "A pint of the ends of 10p lemonade ice poles from when he was a kid",
-    "normalised": "A pint of the ends of 10p lemonade ice poles from when he was a kid",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 119,
-    "guest": "John Robins (Live)",
-    "original": "Arthur's Seat coffee in a chilly bottle with oat milk and pastries",
-    "normalised": "Arthur's Seat coffee",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 121,
-    "guest": "Sam Campbell (Live)",
-    "original": "Wimmers Portino",
-    "normalised": "Wimmers Portino",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 122,
-    "guest": "Nisha Katona",
-    "original": "Kinako kuromitsu latte from TSUJIRI and Trappist banana beer",
-    "normalised": "Kinako kuromitsu latte and Trappist banana beer",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 125,
-    "guest": "Johannes Radebe",
-    "original": "Prosecco with a shot of lychee liqueur",
-    "normalised": "Prosecco",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 127,
-    "guest": "Finn Wolfhard",
-    "original": "Chi Chi Colada from Parson's Chicken and Fish",
-    "normalised": "Chi Chi Colada",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 131,
-    "guest": "Killer Mike",
-    "original": "Killer Peach (peach-infused moonshine)",
-    "normalised": "Killer Peach",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 132,
-    "guest": "Mike Wozniak (Live)",
-    "original": "Ouzo and a pint of Old Thumper",
-    "normalised": "Ouzo and Old Thumper",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 134,
-    "guest": "Joe Wilkonson (Live)",
-    "original": "Mango Magic",
-    "normalised": "Mango Magic",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 137,
-    "guest": "Karan Gokani",
-    "original": "Sparkling water with bitters and grapefruit wedge, with a sip of Negroni",
-    "normalised": "Sparkling water with bitters and grapefruit wedge, with a sip of Negroni",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 148,
-    "guest": "Amy Annette",
-    "original": "Sicilian white wine, ideally from near Mount Etna, such as Catarratto",
-    "normalised": "Catarratto",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 159,
-    "guest": "Jessica Hynes",
-    "original": "Sparkling water with lime, Lassi with fresh mango and kefir, alcohol-free Guinness",
-    "normalised": "sparkling water with lime, lassi, alcohol-free Guinness",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 160,
-    "guest": "Robert Popper",
-    "original": "Seamower and Laross",
-    "normalised": "Seamower and Laross",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 162,
-    "guest": "Olga Koch",
-    "original": "Massive Dunkin' Donuts cold brew followed by the piss challenge",
-    "normalised": "Dunkin' Donuts cold brew followed by the piss challenge",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 163,
-    "guest": "Derren Brown",
-    "original": "Tommy's Margarita to start, then Brunello di Montalcino (glass and a half), then extra dry vodka Martini with a twist",
-    "normalised": "Tommy's Margarita, Brunello di Montalcino, vodka Martini",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 171,
-    "guest": "Robert De Niro",
-    "original": "Gin Martini, dry, no vermouth, with cucumber, and nice wine",
-    "normalised": "Gin Martini and wine",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 174,
-    "guest": "Antoni Porowski",
-    "original": "Blueberry mint shrub with apple cider vinegar and soda water, Shirley temple with ginger ale/7-Up and soda water with maraschino cherries, and lemongrass soda",
-    "normalised": "blueberry mint shrub, Shirley Temple, lemongrass soda",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 176,
-    "guest": "Sally Phillips",
-    "original": "Big bucket of girl cocktail with an entirely new alcohol made from a surprising non-poisonous ingredient, brought by monkeys",
-    "normalised": "Big bucket of girl cocktail with an entirely new alcohol made from a surprising non-poisonous ingredient, brought by monkeys",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 186,
-    "guest": "Stevie Martin",
-    "original": "Stevie Martini and calimocho",
-    "normalised": "Stevie Martini and calimocho",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 194,
-    "guest": "Sue Perkins",
-    "original": "Zubrowka bison grass vodka (orally) and cup of tea with skimmed milk and honey (rectally administered)",
-    "normalised": "Zubrowka bison grass vodka and cup of tea with skimmed milk and honey (rectally administered)",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass1",
-    "column": "drink",
-    "row_index": 200,
-    "guest": "Flo & Joan",
-    "original": "First cup of tea after being away for a long time (PG Tips teabag, specific temperature that buzzes mouth but doesn't burn) / Champagne and Steam Whistle Pilsner (champagne at start like own wedding, beer through curry, champagne at end)",
-    "normalised": "tea, champagne, and Steam Whistle Pilsner",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 0,
-    "guest": "Ed Gamble and James Acaster (with special guest genie Claudia Winkleman)",
-    "original": "Tomato and Basil 3.0",
-    "normalised": "tomato and basil dish",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 2,
-    "guest": "Rafe Spall",
-    "original": "Tricolore salad, tuna nigiri, grilled halloumi, hummus with pita, watermelon duck and cashew salad, creamed polenta with mushrooms",
-    "normalised": "Tricolore salad, tuna nigiri, grilled halloumi, hummus with pita, watermelon duck and cashew salad, creamed polenta with mushrooms",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 7,
-    "guest": "Dan Aykroyd",
-    "original": "pecorino stilton and pappardelle pesto",
-    "normalised": "pappardelle pesto",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 16,
-    "guest": "Sarah Keyworth",
-    "original": "crispy duck pancakes, patatas bravas, glazed cauliflower",
-    "normalised": "crispy duck pancakes, patatas bravas, glazed cauliflower",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 44,
-    "guest": "Adam Buxton",
-    "original": "Anything from Les Ambassadeurs restaurant in Paris, specifically the small artistic dishes served with flourish, such as breast of womble with lattice of fudge fingers or miniature towers with yummy dust",
-    "normalised": "Anything from Les Ambassadeurs restaurant in Paris, specifically the small artistic dishes served with flourish, such as breast of womble with lattice of fudge fingers or miniature towers with yummy dust",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 49,
-    "guest": "Taron Egerton",
-    "original": "mushrooms in a bag",
-    "normalised": "mushrooms in a bag",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 53,
-    "guest": "Felicity Ward",
-    "original": "yoghurt explosion",
-    "normalised": "yoghurt",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 62,
-    "guest": "Chloe Petts",
-    "original": "Bruschetta (girlfriend menu) / Full mini fry-up with scrambled eggs, beans, sausage, bacon, hash browns, tattie scone, mushrooms, tomato, fried bread, black pudding, white pudding (ghost menu)",
-    "normalised": "bruschetta / fry-up",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 66,
-    "guest": "Alex Horne (Christmas Special)",
-    "original": "Crisps and dips with pork crackling",
-    "normalised": "crisps and dips with pork crackling",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 75,
-    "guest": "Nick Mohammed",
-    "original": "tortilla lasagna",
-    "normalised": "tortilla lasagna",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 77,
-    "guest": "John Kearns",
-    "original": "French onion soup and aubergine parmigiana",
-    "normalised": "French onion soup and aubergine parmigiana",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 80,
-    "guest": "Róisín Murphy",
-    "original": "stuffed courgette flowers and risotto",
-    "normalised": "stuffed courgette flowers and risotto",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 88,
-    "guest": "Jenny Eclair",
-    "original": "Boneless fish platter with poached salmon dressed 1970s style with olive eyes and cucumber gills, smoked salmon, chargrilled octopus, lobster out of shell, massive prawns with loose shells, Hellman's Light mayonnaise, and crudites with radishes, celery, and cucumber",
-    "normalised": "seafood platter",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 90,
-    "guest": "Celya AB",
-    "original": "Lamb bap bite from the Red Lion in Birmingham, bread dipped in mussel sauce from a French restaurant in Paris, sip of vegetable soup from a pub in Rotherhithe, two sips of Chorba",
-    "normalised": "lamb bap / vegetable soup / Chorba",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 92,
-    "guest": "James Acaster and Ed Gamble with guest genie Rylan Clark",
-    "original": "cheeseburger spring rolls and kofte",
-    "normalised": "cheeseburger spring rolls and kofte",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 106,
-    "guest": "Steve/O",
-    "original": "Pickled Onion Monster Munch",
-    "normalised": "crisps",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 113,
-    "guest": "Elis James (Live)",
-    "original": "Cumberland sausages and salmon sashimi",
-    "normalised": "Cumberland sausages and salmon sashimi",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 114,
-    "guest": "Nabil Abdulrashid",
-    "original": "Mixed meat and fish Balangu",
-    "normalised": "Balangu",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 116,
-    "guest": "CMAT",
-    "original": "Battered artichoke and broccoli",
-    "normalised": "battered vegetables",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 118,
-    "guest": "Noel Fielding",
-    "original": "A bowl of peeled lychees, with a gerbil wearing lychee boxing gloves to wash the inside of his organs with lychee juice for a couple of days",
-    "normalised": "A bowl of peeled lychees, with a gerbil wearing lychee boxing gloves to wash the inside of his organs with lychee juice for a couple of days",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 119,
-    "guest": "John Robins (Live)",
-    "original": "Cuppy egg on veggie haggis",
-    "normalised": "cuppy egg on veggie haggis",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 121,
-    "guest": "Sam Campbell (Live)",
-    "original": "Pepper Crunch sandwich",
-    "normalised": "sandwich",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 132,
-    "guest": "Mike Wozniak (Live)",
-    "original": "Gooducken ouffle surprise (chicken in a duck in a goose, souffléd, with a toy inside)",
-    "normalised": "Gooducken ouffle surprise (chicken in a duck in a goose, souffléd, with a toy inside)",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 136,
-    "guest": "Tommy Tiernan (Live)",
-    "original": "The smell of your own brain sizzling in a pan",
-    "normalised": "The smell of your own brain sizzling in a pan",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 145,
-    "guest": "Michelle de Swarte",
-    "original": "Triple melon Lost Mary vape and three cappuccinos in Rome at the Trevi Fountain in the evening with a glass of water",
-    "normalised": "Triple melon Lost Mary vape and three cappuccinos in Rome at the Trevi Fountain in the evening with a glass of water",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 154,
-    "guest": "Josh Widdicombe",
-    "original": "toast with marmite and marmalade",
-    "normalised": "toast with marmite and marmalade",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 160,
-    "guest": "Robert Popper",
-    "original": "mixed cereal",
-    "normalised": "mixed cereal",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 164,
-    "guest": "Rose Matafeo (Christmas Special)",
-    "original": "A man making a wax figurine of a lettuce",
-    "normalised": "A man making a wax figurine of a lettuce",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 166,
-    "guest": "Harris Dickinson",
-    "original": "ham sandwich with marmalade",
-    "normalised": "ham sandwich with marmalade",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 176,
-    "guest": "Sally Phillips",
-    "original": "Grilled lettuce with smoked butter over hay fire with edible flowers, outdoors in a glade with a spider monkey on shoulder playing Nina Simone medley on banjo",
-    "normalised": "Grilled lettuce with smoked butter over hay fire with edible flowers, outdoors in a glade with a spider monkey on shoulder playing Nina Simone medley on banjo",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 178,
-    "guest": "Bridget Christie (Tasting Menu)",
-    "original": "tortilla lasagne",
-    "normalised": "tortilla lasagne",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 181,
-    "guest": "James Norton",
-    "original": "asparagus with parmesan and scotch egg",
-    "normalised": "asparagus with parmesan and scotch egg",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 193,
-    "guest": "Mae Martin",
-    "original": "shrimp selection",
-    "normalised": "shrimp selection",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 197,
-    "guest": "Rosie Jones",
-    "original": "Three hours of crisps: twiglets, pringles, bacon rashers, onion rings, salt and vinegar sticks, peanuts, cashew nuts, cheese straws, hula hoops, doritos (every flavour), NikNaks (only barbecue rib flavour), crimpy mini cheddars, pretzels, wotsits, quavers (cheese), space raiders. All in separate bowls on a rotating table with surprise snacks every 20 minutes.",
-    "normalised": "Three hours of crisps: twiglets, pringles, bacon rashers, onion rings, salt and vinegar sticks, peanuts, cashew nuts, cheese straws, hula hoops, doritos (every flavour), NikNaks (only barbecue rib flavour), crimpy mini cheddars, pretzels, wotsits, quavers (cheese), space raiders. All in separate bowls on a rotating table with surprise snacks every 20 minutes.",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 200,
-    "guest": "Flo & Joan",
-    "original": "fantasy olives and steak selection",
-    "normalised": "fantasy olives and steak selection",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 201,
-    "guest": "Alison Spittle",
-    "original": "Mystery soup",
-    "normalised": "soup",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "starter",
-    "row_index": 202,
-    "guest": "Ania Magliano",
-    "original": "Colin the Caterpillar face and neck",
-    "normalised": "Colin the Caterpillar",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 2,
-    "guest": "Rafe Spall",
-    "original": "Spotted Pig cheeseburger (medium rare) with string fries, porterhouse steak cooked Chicago style, melanzane parmigiana, chicken burrito with guacamole",
-    "normalised": "cheeseburger, porterhouse steak, melanzane parmigiana, chicken burrito",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 11,
-    "guest": "Bob Mortimer",
-    "original": "Chicken vindaloo with turbot",
-    "normalised": "chicken vindaloo with turbot",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 14,
-    "guest": "Jamie Oliver",
-    "original": "Curry feast",
-    "normalised": "curry feast",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 19,
-    "guest": "Michelle Keegan",
-    "original": "Pesto linguine with chip butty",
-    "normalised": "pesto linguine with chip butty",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 22,
-    "guest": "Timothy Spall",
-    "original": "Oxtail stew with shashlik",
-    "normalised": "oxtail stew with shashlik",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 40,
-    "guest": "Kiri Pritchard/McLean",
-    "original": "Picky bits",
-    "normalised": "picky bits",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 41,
-    "guest": "Jamali Maddix",
-    "original": "Alligator and shrimp cheesecake",
-    "normalised": "Alligator and shrimp cheesecake",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 42,
-    "guest": "Sikisa",
-    "original": "Pudding and souse",
-    "normalised": "pudding and souse",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 71,
-    "guest": "Reece Shearsmith",
-    "original": "Christmas dinner",
-    "normalised": "Christmas dinner",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 75,
-    "guest": "Nick Mohammed",
-    "original": "Christmas dinner with lamb",
-    "normalised": "Christmas dinner with lamb",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 77,
-    "guest": "John Kearns",
-    "original": "Steak with poulet au champagne",
-    "normalised": "steak with poulet au champagne",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 78,
-    "guest": "Lily Allen",
-    "original": "Afghan chicken and yoghurt",
-    "normalised": "Afghan chicken and yoghurt",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 102,
-    "guest": "Paapa Essiedu",
-    "original": "Red Red",
-    "normalised": "Red Red",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 104,
-    "guest": "Garth Marenghi",
-    "original": "Beef - a piece from every part of the carcass (heart, guts, but not the balls), medium rare except the heart which should be rare",
-    "normalised": "beef offal platter",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 114,
-    "guest": "Nabil Abdulrashid",
-    "original": "Miyan Taushe",
-    "normalised": "Miyan Taushe",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 125,
-    "guest": "Johannes Radebe",
-    "original": "Tripe samp beans",
-    "normalised": "tripe with samp and beans",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 130,
-    "guest": "Jessica Knappett (Live)",
-    "original": "Bastard cake",
-    "normalised": "bastard cake",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 133,
-    "guest": "Carrie Brownstein",
-    "original": "Tacos with spaghetti bolognese",
-    "normalised": "tacos with spaghetti bolognese",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 138,
-    "guest": "Ardal O'Hanlon (Live)",
-    "original": "Stinky beef",
-    "normalised": "stinky beef",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 157,
-    "guest": "Ella Purnell",
-    "original": "Spy Kids memory burger",
-    "normalised": "burger",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 160,
-    "guest": "Robert Popper",
-    "original": "square steak",
-    "normalised": "steak",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 162,
-    "guest": "Olga Koch",
-    "original": "lamb xaniid",
-    "normalised": "lamb xaniid",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 171,
-    "guest": "Robert De Niro",
-    "original": "Wagyu Wellington with duck brains in original duck skull, crickets, and ants",
-    "normalised": "Wagyu Wellington with duck brains in original duck skull, crickets, and ants",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 176,
-    "guest": "Sally Phillips",
-    "original": "Fire-cooked fresh fish on a beach",
-    "normalised": "fire-cooked fish",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 177,
-    "guest": "Santiago Lastra",
-    "original": "bonfire lamb",
-    "normalised": "roast lamb",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 178,
-    "guest": "Bridget Christie (Tasting Menu)",
-    "original": "Christmas dinner roast with lamb, gravy, Yorkshire puddings, rice, leftover Chinese food, pigs in blankets, meatballs, stuffed vine leaves, carrots, parsnips, peas, sweetcorn, green beans, roast potatoes, hot pepper sauce, raw onion, and sloppy stuffing",
-    "normalised": "Christmas dinner",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 179,
-    "guest": "Jeff Goldblum",
-    "original": "Around the world in pasta",
-    "normalised": "pasta",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 180,
-    "guest": "Joanne McNally",
-    "original": "Potato waffle boat filled with two-minute noodles (chicken and curry flavored), floating in a river of butter, with a goujon anchor and a Pringle sail",
-    "normalised": "Potato waffle boat filled with two-minute noodles, floating in a river of butter, with a goujon anchor and a Pringle sail",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 185,
-    "guest": "Sharon Wanjohi",
-    "original": "Mother's cooking from summer 2007 - Kenyan food including mukimo (mash with spinach and maize), chapati, and beef stew",
-    "normalised": "Kenyan food",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 188,
-    "guest": "Will Sharpe",
-    "original": "Kaiseki-style tray with tofu, Genmai Flakes cereal, Kellogg's Kombos cereal, pickled daikon, white fish, cold soba noodles with nori and tempura, unagi, natto, green vegetables, small piece of beef, small okonomiyaki, koala biscuits, Hello Panda, and Japanese convenience store items",
-    "normalised": "Kaiseki-style tray",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 190,
-    "guest": "Richard Osman",
-    "original": "Christmas dinner from late '70s/early '80s - turkey, beef, roast potatoes, no vegetables",
-    "normalised": "Christmas dinner",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 200,
-    "guest": "Flo & Joan",
-    "original": "Iberico char siu pork / spicy curries",
-    "normalised": "char siu pork and curries",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "main",
-    "row_index": 201,
-    "guest": "Alison Spittle",
-    "original": "Pasta cream bean dream",
-    "normalised": "Pasta cream bean dream",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 7,
-    "guest": "Dan Aykroyd",
-    "original": "mocha dacquoise, lemon squares, black velvet cake, black forest cake, espresso martini with Crystal Head, cigar with Chateau d'Yquem, brandy, or Signal Hill whiskey, two gram Chernobyl pre-roll sativa blunt, plain donuts rolled in butter and grilled",
-    "normalised": "mocha dacquoise, lemon squares, black velvet cake, black forest cake, espresso martini with Crystal Head, cigar with Chateau d'Yquem, brandy, or Signal Hill whiskey, two gram Chernobyl pre-roll sativa blunt, plain donuts rolled in butter and grilled",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 16,
-    "guest": "Sarah Keyworth",
-    "original": "A mouthful of someone else's dessert (any dessert, doesn't matter what it is)",
-    "normalised": "A mouthful of someone else's dessert (any dessert, doesn't matter what it is)",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 18,
-    "guest": "Jeff Rosenstock",
-    "original": "Wattamelon roll",
-    "normalised": "watermelon roll",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 40,
-    "guest": "Kiri Pritchard/McLean",
-    "original": "Dessert sliders",
-    "normalised": "dessert sliders",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 46,
-    "guest": "Rob Brydon",
-    "original": "Chocolate bomb",
-    "normalised": "chocolate bomb",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 50,
-    "guest": "Amy Gledhill",
-    "original": "Rolomarzipifle",
-    "normalised": "Rolomarzipifle",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 55,
-    "guest": "Matt Lucas",
-    "original": "Wall's Romantica",
-    "normalised": "ice cream",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 58,
-    "guest": "Richard Ayoade",
-    "original": "Ice cream and fruit",
-    "normalised": "ice cream and fruit",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 62,
-    "guest": "Chloe Petts",
-    "original": "Tiramisu / Bacon pancakes",
-    "normalised": "tiramisu / bacon pancakes",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 65,
-    "guest": "Mel Giedroyc (Christmas Special)",
-    "original": "Pyramid of Ferrero Rocher and Taskmaster exotic sandwich",
-    "normalised": "Pyramid of Ferrero Rocher and Taskmaster exotic sandwich",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 67,
-    "guest": "Paul Mescal",
-    "original": "Cookie dough and lava cake",
-    "normalised": "lava cake",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 72,
-    "guest": "Cariad Lloyd",
-    "original": "Marigold custard; apple soufflé; pavlova; frangipane; hot chocolate; Rolos; macarons",
-    "normalised": "Marigold custard; apple soufflé; pavlova; frangipane; hot chocolate; Rolos; macarons",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 73,
-    "guest": "Joe Cornish",
-    "original": "Yorkie and raisin",
-    "normalised": "Yorkie and raisin",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 74,
-    "guest": "Motsi Mabuse",
-    "original": "Chocolate fondant and crema catalana",
-    "normalised": "chocolate fondant and crema catalana",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 76,
-    "guest": "Florence Pugh",
-    "original": "Tiramisu; affogato; banana cake",
-    "normalised": "tiramisu; affogato; banana cake",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 77,
-    "guest": "John Kearns",
-    "original": "Baklava; profiterole",
-    "normalised": "baklava; profiterole",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 90,
-    "guest": "Celya AB",
-    "original": "Tiramisu; Paris-Brest; Sachertorte",
-    "normalised": "tiramisu; Paris-Brest; Sachertorte",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 93,
-    "guest": "Angela Barnes",
-    "original": "Hot chocolate sponge",
-    "normalised": "sponge cake",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 95,
-    "guest": "Paul Foot",
-    "original": "Souffle that changes flavour with every mouthful - rambutan, lychee, passion fruit, dragon fruit, violet, rose, bubblegum, sour cherry, and Green Cola sour cherry flavour",
-    "normalised": "soufflé",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 97,
-    "guest": "Jordan Gray",
-    "original": "A pound's worth of lemon sherbet in edible sugar paper like a gyoza, with the Pussy Pig poured over it",
-    "normalised": "A pound's worth of lemon sherbet in edible sugar paper like a gyoza, with the Pussy Pig poured over it",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 98,
-    "guest": "AJ Odudu",
-    "original": "Custard and cake",
-    "normalised": "custard and cake",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 100,
-    "guest": "Izuka Hoyle",
-    "original": "Giant pick and mix with American sweets (sour fizzy sweets, pencils, wheels, gummy sweets, giant strawberries, squishy strawberries) with Biggie Smalls in New York in the 1990s, Fanta Frozen (raspberry or cherry and raspberry blend)",
-    "normalised": "pick and mix with sweets",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 103,
-    "guest": "Steve Coogan",
-    "original": "Rhubarb dessert",
-    "normalised": "rhubarb dessert",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 106,
-    "guest": "Steve/O",
-    "original": "Either no dessert or every dessert in the world, with salted caramel being a priority option",
-    "normalised": "Either no dessert or every dessert in the world, with salted caramel being a priority option",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 109,
-    "guest": "Ross Noble",
-    "original": "Crumble roulette (32 different crumbles on a roulette wheel), crumble roulade, Wall's Viennetta, cream, jug of molten chocolate, and a Quooker tap that dispenses hot custard",
-    "normalised": "crumble roulette with various desserts",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 110,
-    "guest": "Jada Pinkett Smith",
-    "original": "Taiwanese pineapple cake vegan ice cream",
-    "normalised": "pineapple cake vegan ice cream",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
+    "column": "side_dish",
     "row_index": 123,
     "guest": "Iain Stirling (Live)",
-    "original": "Floating pillow with cheeseboard",
-    "normalised": "floating pillow with cheeseboard",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 126,
-    "guest": "Amelia Dimoldenberg (Live)",
-    "original": "Cadbury Freddo",
-    "normalised": "Freddo",
+    "original": "Haggis bon bons from Angels with Bagpipes",
+    "normalised": "Haggis bon bons",
     "confidence": "medium"
   },
   {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 129,
-    "guest": "Katy Wix",
-    "original": "Three tier cake stand",
-    "normalised": "cake",
+    "pass": "pass1",
+    "column": "side_dish",
+    "row_index": 136,
+    "guest": "Tommy Tiernan (Live)",
+    "original": "poisonous slash magic mushroom pizza",
+    "normalised": "poisonous slash magic mushroom pizza",
     "confidence": "low"
   },
   {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 132,
-    "guest": "Mike Wozniak (Live)",
-    "original": "The piece of shame (last slice of cake from a Ruby anniversary celebration, tractor-beamed from a family event)",
-    "normalised": "cake",
+    "pass": "pass1",
+    "column": "side_dish",
+    "row_index": 143,
+    "guest": "Jason Mantzoukas",
+    "original": "Mother's Greek stuffing (shadow), Mother's lemon potatoes (main), with grilled broccoli on both",
+    "normalised": "Greek stuffing and lemon potatoes",
     "confidence": "medium"
   },
   {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 140,
-    "guest": "Rhys Nicholson",
-    "original": "A mouthful of everyone else's dessert and a mint Fernet-Branca digestif",
-    "normalised": "A mouthful of everyone else's dessert and a mint Fernet-Branca digestif",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 154,
-    "guest": "Josh Widdicombe",
-    "original": "Christmas chocolates",
-    "normalised": "chocolates",
+    "pass": "pass1",
+    "column": "side_dish",
+    "row_index": 148,
+    "guest": "Amy Annette",
+    "original": "Grape salad supreme",
+    "normalised": "Grape salad supreme",
     "confidence": "medium"
   },
   {
-    "pass": "pass2",
-    "column": "dessert",
+    "pass": "pass1",
+    "column": "side_dish",
     "row_index": 155,
     "guest": "Rukmini Iyer",
-    "original": "chocolate cake mousse",
-    "normalised": "mousse",
+    "original": "dauphinoise, kale and buttered cabbage with crushed Sichuan peppercorns",
+    "normalised": "dauphinoise and greens",
     "confidence": "medium"
   },
   {
-    "pass": "pass2",
-    "column": "dessert",
+    "pass": "pass1",
+    "column": "side_dish",
+    "row_index": 157,
+    "guest": "Ella Purnell",
+    "original": "cheap supermarket prawn crackers and the concept of a salad",
+    "normalised": "cheap supermarket prawn crackers and the concept of a salad",
+    "confidence": "low"
+  },
+  {
+    "pass": "pass1",
+    "column": "side_dish",
     "row_index": 164,
     "guest": "Rose Matafeo (Christmas Special)",
-    "original": "Australian Woman's Weekly children's cake book trolley - pool cake, train cake, Dolly Varden cake, number cakes",
-    "normalised": "Australian Woman's Weekly children's cake book trolley - pool cake, train cake, Dolly Varden cake, number cakes",
+    "original": "Potato trolley with potatoes every way and all the sauces",
+    "normalised": "Potato trolley with potatoes every way and all the sauces",
     "confidence": "low"
   },
   {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 169,
-    "guest": "John Kearns Tasting Menu",
-    "original": "coffee chocolate ice cream",
-    "normalised": "ice cream",
+    "pass": "pass1",
+    "column": "side_dish",
+    "row_index": 171,
+    "guest": "Robert De Niro",
+    "original": "duck brains in the original duck's skull, crickets, and ants",
+    "normalised": "duck brains in the original duck's skull, crickets, and ants",
+    "confidence": "low"
+  },
+  {
+    "pass": "pass1",
+    "column": "side_dish",
+    "row_index": 175,
+    "guest": "Meera Sodha",
+    "original": "Sliced tomatoes with crunchy salt and tarka (chonk)",
+    "normalised": "sliced tomatoes with salt",
     "confidence": "medium"
   },
   {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 179,
-    "guest": "Jeff Goldblum",
-    "original": "All the desserts in a buffet",
-    "normalised": "All the desserts in a buffet",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 180,
-    "guest": "Joanne McNally",
-    "original": "Tom Hardy topless on a penny farthing bike with a sidecar of desserts: macaroons, French fancies, gelato (multiple flavors), profiteroles, and chocolate biscuit cake",
-    "normalised": "Tom Hardy topless on a penny farthing bike with a sidecar of desserts: macaroons, French fancies, gelato (multiple flavors), profiteroles, and chocolate biscuit cake",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 185,
-    "guest": "Sharon Wanjohi",
-    "original": "fried chicken ice cream",
-    "normalised": "fried chicken ice cream",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 197,
-    "guest": "Rosie Jones",
-    "original": "sweets selection",
-    "normalised": "sweets selection",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 199,
-    "guest": "Munya Chawawa",
-    "original": "chocolate bomb",
-    "normalised": "chocolate bomb",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "dessert",
-    "row_index": 200,
-    "guest": "Flo & Joan",
-    "original": "Bowl of stale Wotsits and stale Chipsticks / Pick-n-mix (old/slightly aged from Woolworths style shop) with Willy Wonka chocolate river teacup (pre-Gloop, with a bit of Gloop in it), fried eggs, strawberry laces, big snakes, pink bottles with white foam, Razzles, pink chocolate piggies, wine gums (old ones), berries, smiley faces, spiders/octopuses with jelly, cola bottles (traditional and cherry)",
-    "normalised": "Surreal sweet and savoury mixed dish with sweets, snacks and fried eggs",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 2,
-    "guest": "Rafe Spall",
-    "original": "vodka martini, Diet Coke, Château Latour, lager",
-    "normalised": "vodka martini, Diet Coke, Château Latour, lager",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 4,
-    "guest": "Martin Freeman",
-    "original": "Pinot Noir, Coke",
-    "normalised": "Pinot Noir, Coke",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 7,
-    "guest": "Dan Aykroyd",
-    "original": "vodka martini, Château Margaux, Chardonnay, espresso martini, Patrón XO",
-    "normalised": "vodka martini, Château Margaux, Chardonnay, espresso martini, Patrón XO",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 10,
-    "guest": "Shaparak Khorsandi",
-    "original": "espresso martini, doogh",
-    "normalised": "espresso martini, doogh",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 19,
-    "guest": "Michelle Keegan",
-    "original": "piña colada, Chardonnay",
-    "normalised": "piña colada, Chardonnay",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 20,
-    "guest": "Ed Sheeran",
-    "original": "Asahi lager, Burgundy, Bordeaux",
-    "normalised": "Asahi lager, Burgundy, Bordeaux",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 21,
-    "guest": "Jack Dee",
-    "original": "beer or real ale",
-    "normalised": "beer",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 22,
-    "guest": "Timothy Spall",
-    "original": "cranberry lemonade, fruit squash",
-    "normalised": "cranberry lemonade, fruit squash",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 25,
-    "guest": "Bridget Christie",
-    "original": "lavender cocktail",
-    "normalised": "cocktail",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 42,
-    "guest": "Sikisa",
-    "original": "June bug",
-    "normalised": "June bug",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 46,
-    "guest": "Rob Brydon",
-    "original": "Kir Royale, Barolo",
-    "normalised": "Kir Royale, Barolo",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 52,
-    "guest": "Maisie Adam",
-    "original": "Chock-work orange",
-    "normalised": "cocktail",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 53,
-    "guest": "Felicity Ward",
-    "original": "Son-in-law egg guy's drink",
-    "normalised": "cocktail",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 66,
-    "guest": "Alex Horne (Christmas Special)",
-    "original": "Moules marinière juice mixed with bread sauce and a glug of Baileys in an engraved pewter tankard at room temperature",
-    "normalised": "Moules marinière juice mixed with bread sauce and a glug of Baileys in an engraved pewter tankard at room temperature",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 67,
-    "guest": "Paul Mescal",
-    "original": "Sergeant Pepper cocktail",
-    "normalised": "cocktail",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 69,
-    "guest": "Fern Brady",
-    "original": "Baron de Balzac Caringion",
-    "normalised": "wine",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 74,
-    "guest": "Motsi Mabuse",
-    "original": "Chocolate Block wine",
-    "normalised": "red wine",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 87,
-    "guest": "Toheeb Jimoh",
-    "original": "Bottled Nigerian Fanta",
-    "normalised": "soft drink",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 90,
-    "guest": "Celya AB",
-    "original": "Peachy, orangey cocktail",
-    "normalised": "cocktail",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 91,
-    "guest": "Scroobius Pip",
-    "original": "Scroobius",
-    "normalised": "Scroobius",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 97,
-    "guest": "Jordan Gray",
-    "original": "Pussy Pig",
-    "normalised": "cocktail",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 104,
-    "guest": "Garth Marenghi",
-    "original": "One goblet of soft wine and one goblet of hard beer",
-    "normalised": "One goblet of soft wine and one goblet of hard beer",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 109,
-    "guest": "Ross Noble",
-    "original": "Rhubarb Cawston Press",
-    "normalised": "rhubarb juice",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 111,
-    "guest": "Jamelia (Live)",
-    "original": "Sexy juice and carrot juice",
-    "normalised": "Sexy juice and carrot juice",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 112,
-    "guest": "Peter Capaldi",
-    "original": "ginger and elder flower",
-    "normalised": "ginger and elder flower",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 113,
-    "guest": "Elis James (Live)",
-    "original": "V60 hand-brewed coffee made with Panamanian Geisha beans made by James Hoffmann, a can of Grolsch, and a pint of Ribena",
-    "normalised": "V60 hand-brewed coffee made with Panamanian Geisha beans made by James Hoffmann, a can of Grolsch, and a pint of Ribena",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 115,
-    "guest": "Mathew Baynton (Live)",
-    "original": "Vieux Carré cocktail at the bar, Norton Torrontes white wine with the meal, gin with elderflower liqueur and lime as water course replacement, Amaro digestif at the end",
-    "normalised": "Vieux Carré cocktail at the bar, Norton Torrontes white wine with the meal, gin with elderflower liqueur and lime as water course replacement, Amaro digestif at the end",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 117,
-    "guest": "Susan Wokoma (Live)",
-    "original": "Craig David",
-    "normalised": "Craig David",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 118,
-    "guest": "Noel Fielding",
-    "original": "A pint of the ends of 10p lemonade ice poles from when he was a kid",
-    "normalised": "A pint of the ends of 10p lemonade ice poles from when he was a kid",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 119,
-    "guest": "John Robins (Live)",
-    "original": "Arthur's Seat coffee",
-    "normalised": "coffee",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 121,
-    "guest": "Sam Campbell (Live)",
-    "original": "Wimmers Portino",
-    "normalised": "Portino",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 122,
-    "guest": "Nisha Katona",
-    "original": "Kinako kuromitsu latte and Trappist banana beer",
-    "normalised": "Kinako kuromitsu latte and Trappist banana beer",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 127,
-    "guest": "Finn Wolfhard",
-    "original": "Chi Chi Colada",
-    "normalised": "Chi Chi Colada",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 131,
-    "guest": "Killer Mike",
-    "original": "Killer Peach",
-    "normalised": "Killer Peach",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 132,
-    "guest": "Mike Wozniak (Live)",
-    "original": "Ouzo and Old Thumper",
-    "normalised": "ouzo and Old Thumper",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 134,
-    "guest": "Joe Wilkonson (Live)",
-    "original": "Mango Magic",
-    "normalised": "Mango Magic",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 137,
-    "guest": "Karan Gokani",
-    "original": "Sparkling water with bitters and grapefruit wedge, with a sip of Negroni",
-    "normalised": "Sparkling water with bitters and grapefruit wedge, with a sip of Negroni",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 159,
-    "guest": "Jessica Hynes",
-    "original": "sparkling water with lime, lassi, alcohol-free Guinness",
-    "normalised": "sparkling water with lime, lassi, and alcohol-free stout",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 160,
-    "guest": "Robert Popper",
-    "original": "Seamower and Laross",
-    "normalised": "Seamower and Laross",
-    "confidence": "low"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 162,
-    "guest": "Olga Koch",
-    "original": "Dunkin' Donuts cold brew followed by the piss challenge",
-    "normalised": "cold brew followed by the piss challenge",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 164,
-    "guest": "Rose Matafeo (Christmas Special)",
-    "original": "Spider",
-    "normalised": "Spider",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
-    "row_index": 174,
-    "guest": "Antoni Porowski",
-    "original": "blueberry mint shrub, Shirley Temple, lemongrass soda",
-    "normalised": "blueberry mint shrub, Shirley Temple, and lemongrass soda",
-    "confidence": "medium"
-  },
-  {
-    "pass": "pass2",
-    "column": "drink",
+    "pass": "pass1",
+    "column": "side_dish",
     "row_index": 176,
     "guest": "Sally Phillips",
-    "original": "Big bucket of girl cocktail with an entirely new alcohol made from a surprising non-poisonous ingredient, brought by monkeys",
-    "normalised": "Big bucket of girl cocktail with an entirely new alcohol made from a surprising non-poisonous ingredient, brought by monkeys",
+    "original": "toddler veg",
+    "normalised": "toddler veg",
+    "confidence": "low"
+  },
+  {
+    "pass": "pass1",
+    "column": "side_dish",
+    "row_index": 178,
+    "guest": "Bridget Christie (Tasting Menu)",
+    "original": "carrots, parsnips, peas, sweetcorn, green beans, roast potatoes, raw onion, and sloppy stuffing",
+    "normalised": "roast vegetables and stuffing",
+    "confidence": "medium"
+  },
+  {
+    "pass": "pass1",
+    "column": "side_dish",
+    "row_index": 179,
+    "guest": "Jeff Goldblum",
+    "original": "spiced up, well-cooked vegetables and a salad and some sandwiches",
+    "normalised": "spiced up, well-cooked vegetables and a salad and some sandwiches",
+    "confidence": "low"
+  },
+  {
+    "pass": "pass1",
+    "column": "side_dish",
+    "row_index": 185,
+    "guest": "Sharon Wanjohi",
+    "original": "congealed chips and 5.5 nuggets from the night before",
+    "normalised": "congealed chips and 5.5 nuggets from the night before",
+    "confidence": "low"
+  },
+  {
+    "pass": "pass1",
+    "column": "side_dish",
+    "row_index": 198,
+    "guest": "Thanyia Moore",
+    "original": "salad or chicken wings depending on the guest",
+    "normalised": "salad or chicken wings depending on the guest",
     "confidence": "low"
   },
   {
     "pass": "pass2",
-    "column": "drink",
-    "row_index": 186,
-    "guest": "Stevie Martin",
-    "original": "Stevie Martini and calimocho",
-    "normalised": "Martini and calimocho",
+    "column": "side_dish",
+    "row_index": 2,
+    "guest": "Rafe Spall",
+    "original": "french fries, dauphinoise potatoes, pickled cucumber salad, tomato and red onion salad, truffle macaroni, zucchini fritti",
+    "normalised": "mixed side dishes",
     "confidence": "medium"
   },
   {
     "pass": "pass2",
-    "column": "drink",
-    "row_index": 192,
-    "guest": "Aisling Bea",
-    "original": "Love Me Good cocktail",
-    "normalised": "Love Me Good cocktail",
+    "column": "side_dish",
+    "row_index": 6,
+    "guest": "Joe Wicks",
+    "original": "spicy tuna sushi, yellowtail and prawn tempura with crispy onions",
+    "normalised": "mixed sushi and tempura",
+    "confidence": "medium"
+  },
+  {
+    "pass": "pass2",
+    "column": "side_dish",
+    "row_index": 7,
+    "guest": "Dan Aykroyd",
+    "original": "Yorkshire pudding with gravy and peas, Brussel sprouts with a maple glaze, garlic mash, rosemary roasted potatoes",
+    "normalised": "mixed side dishes",
+    "confidence": "medium"
+  },
+  {
+    "pass": "pass2",
+    "column": "side_dish",
+    "row_index": 9,
+    "guest": "Simon Amstell",
+    "original": "olive oil",
+    "normalised": "olive oil",
     "confidence": "low"
   },
   {
     "pass": "pass2",
-    "column": "drink",
-    "row_index": 194,
-    "guest": "Sue Perkins",
-    "original": "Zubrowka bison grass vodka and cup of tea with skimmed milk and honey (rectally administered)",
-    "normalised": "vodka and tea with milk and honey (rectally administered)",
+    "column": "side_dish",
+    "row_index": 10,
+    "guest": "Shaparak Khorsandi",
+    "original": "garlic mush",
+    "normalised": "garlic mash",
     "confidence": "medium"
+  },
+  {
+    "pass": "pass2",
+    "column": "side_dish",
+    "row_index": 15,
+    "guest": "Miriam Margolyes",
+    "original": "roast potatoes, small frozen peas, braised celery and braised carrots",
+    "normalised": "mixed vegetables",
+    "confidence": "medium"
+  },
+  {
+    "pass": "pass2",
+    "column": "side_dish",
+    "row_index": 22,
+    "guest": "Timothy Spall",
+    "original": "Fluffy boiled potatoes, crispy roast potatoes, marrowfat peas, nine fatty chips, and Mother's Pride white bread",
+    "normalised": "mixed sides and bread",
+    "confidence": "medium"
+  },
+  {
+    "pass": "pass2",
+    "column": "side_dish",
+    "row_index": 29,
+    "guest": "Charlotte Church",
+    "original": "green leaves and chips",
+    "normalised": "salad and chips",
+    "confidence": "medium"
+  },
+  {
+    "pass": "pass2",
+    "column": "side_dish",
+    "row_index": 31,
+    "guest": "Fatiha El/Ghorri",
+    "original": "hummus Beiruti",
+    "normalised": "hummus",
+    "confidence": "medium"
+  },
+  {
+    "pass": "pass2",
+    "column": "side_dish",
+    "row_index": 39,
+    "guest": "Josh Thomas",
+    "original": "Campari sorbet and compressed watermelon",
+    "normalised": "campari sorbet and compressed watermelon",
+    "confidence": "medium"
+  },
+  {
+    "pass": "pass2",
+    "column": "side_dish",
+    "row_index": 47,
+    "guest": "Joseph Quinn",
+    "original": "spinach or broccoli sauteed with oil and garlic, and surprise potatoes (dauphinoise)",
+    "normalised": "sautéed vegetables and dauphinoise potatoes",
+    "confidence": "medium"
+  },
+  {
+    "pass": "pass2",
+    "column": "side_dish",
+    "row_index": 57,
+    "guest": "Richard E Grant",
+    "original": "lemon mayonnaise",
+    "normalised": "lemon mayonnaise",
+    "confidence": "medium"
+  },
+  {
+    "pass": "pass2",
+    "column": "side_dish",
+    "row_index": 62,
+    "guest": "Chloe Petts",
+    "original": "Salad with fennel, orange and dill (girlfriend menu) / Cornbread, mac and cheese, collared greens, Texas toast, frickles, and vinegar-based coleslaw (ghost menu)",
+    "normalised": "Salad with fennel, orange and dill (girlfriend menu) / Cornbread, mac and cheese, collared greens, Texas toast, frickles, and vinegar-based coleslaw (ghost menu)",
+    "confidence": "low"
+  },
+  {
+    "pass": "pass2",
+    "column": "side_dish",
+    "row_index": 65,
+    "guest": "Mel Giedroyc (Christmas Special)",
+    "original": "Hugh Grant",
+    "normalised": "Hugh Grant",
+    "confidence": "low"
+  },
+  {
+    "pass": "pass2",
+    "column": "side_dish",
+    "row_index": 66,
+    "guest": "Alex Horne (Christmas Special)",
+    "original": "a couple of nice and spicy communion wafers",
+    "normalised": "a couple of nice and spicy communion wafers",
+    "confidence": "low"
+  },
+  {
+    "pass": "pass2",
+    "column": "side_dish",
+    "row_index": 73,
+    "guest": "Joe Cornish",
+    "original": "grated cold carrot",
+    "normalised": "carrot",
+    "confidence": "medium"
+  },
+  {
+    "pass": "pass2",
+    "column": "side_dish",
+    "row_index": 88,
+    "guest": "Jenny Eclair",
+    "original": "rhubarb and burrata",
+    "normalised": "rhubarb and burrata",
+    "confidence": "medium"
+  },
+  {
+    "pass": "pass2",
+    "column": "side_dish",
+    "row_index": 90,
+    "guest": "Celya AB",
+    "original": "Chicken wings from Shack Fuyu, square of lasagne, pork bao buns, shredded sweet seaweed from Bao, cup of pork ramen",
+    "normalised": "Chicken wings from Shack Fuyu, square of lasagne, pork bao buns, shredded sweet seaweed from Bao, cup of pork ramen",
+    "confidence": "low"
+  },
+  {
+    "pass": "pass2",
+    "column": "side_dish",
+    "row_index": 96,
+    "guest": "Carol Vorderman",
+    "original": "tomatoes, onions and mashed potatoes",
+    "normalised": "tomatoes, onions and mashed potatoes",
+    "confidence": "low"
+  },
+  {
+    "pass": "pass2",
+    "column": "side_dish",
+    "row_index": 100,
+    "guest": "Izuka Hoyle",
+    "original": "side salad from Sienna and prawn tempura sushi from Renee",
+    "normalised": "side salad from Sienna and prawn tempura sushi from Renee",
+    "confidence": "low"
+  },
+  {
+    "pass": "pass2",
+    "column": "side_dish",
+    "row_index": 129,
+    "guest": "Katy Wix",
+    "original": "cold lasagne",
+    "normalised": "lasagne",
+    "confidence": "medium"
+  },
+  {
+    "pass": "pass2",
+    "column": "side_dish",
+    "row_index": 132,
+    "guest": "Mike Wozniak (Live)",
+    "original": "Alphabites",
+    "normalised": "Alphabites",
+    "confidence": "low"
+  },
+  {
+    "pass": "pass2",
+    "column": "side_dish",
+    "row_index": 136,
+    "guest": "Tommy Tiernan (Live)",
+    "original": "poisonous slash magic mushroom pizza",
+    "normalised": "poisonous slash magic mushroom pizza",
+    "confidence": "low"
+  },
+  {
+    "pass": "pass2",
+    "column": "side_dish",
+    "row_index": 157,
+    "guest": "Ella Purnell",
+    "original": "cheap supermarket prawn crackers and the concept of a salad",
+    "normalised": "cheap supermarket prawn crackers and the concept of a salad",
+    "confidence": "low"
+  },
+  {
+    "pass": "pass2",
+    "column": "side_dish",
+    "row_index": 171,
+    "guest": "Robert De Niro",
+    "original": "duck brains in the original duck's skull, crickets, and ants",
+    "normalised": "duck brains in the original duck's skull, crickets, and ants",
+    "confidence": "low"
+  },
+  {
+    "pass": "pass2",
+    "column": "side_dish",
+    "row_index": 173,
+    "guest": "Ellie Taylor",
+    "original": "Kellogg's Start",
+    "normalised": "breakfast cereal",
+    "confidence": "medium"
+  },
+  {
+    "pass": "pass2",
+    "column": "side_dish",
+    "row_index": 176,
+    "guest": "Sally Phillips",
+    "original": "toddler veg",
+    "normalised": "mixed vegetables",
+    "confidence": "medium"
+  },
+  {
+    "pass": "pass2",
+    "column": "side_dish",
+    "row_index": 179,
+    "guest": "Jeff Goldblum",
+    "original": "spiced up, well-cooked vegetables and a salad and some sandwiches",
+    "normalised": "vegetables, salad and sandwiches",
+    "confidence": "medium"
+  },
+  {
+    "pass": "pass2",
+    "column": "side_dish",
+    "row_index": 185,
+    "guest": "Sharon Wanjohi",
+    "original": "congealed chips and 5.5 nuggets from the night before",
+    "normalised": "chips and nuggets",
+    "confidence": "medium"
+  },
+  {
+    "pass": "pass2",
+    "column": "side_dish",
+    "row_index": 197,
+    "guest": "Rosie Jones",
+    "original": "pork and black pudding scotch egg",
+    "normalised": "scotch egg",
+    "confidence": "medium"
+  },
+  {
+    "pass": "pass2",
+    "column": "side_dish",
+    "row_index": 198,
+    "guest": "Thanyia Moore",
+    "original": "salad or chicken wings depending on the guest",
+    "normalised": "salad or chicken wings",
+    "confidence": "medium"
+  },
+  {
+    "pass": "pass2",
+    "column": "side_dish",
+    "row_index": 202,
+    "guest": "Ania Magliano",
+    "original": "pick n mix",
+    "normalised": "pick n mix",
+    "confidence": "low"
   }
 ]

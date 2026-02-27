@@ -14,7 +14,7 @@ INPUT_FILE = os.path.join(BASE_DIR, "data", "menu_choices.csv")
 OUTPUT_FILE = os.path.join(BASE_DIR, "data", "menu_choices_normalised.csv")
 REVIEW_FILE = os.path.join(BASE_DIR, "data", "normalisation_review.json")
 
-COLUMNS_TO_NORMALISE = ["starter", "main", "dessert", "drink"]
+COLUMNS_TO_NORMALISE = ["side_dish"]
 
 NORMALISE_PROMPT_PASS1 = """You are helping normalise menu choice descriptions from the Off Menu podcast into short canonical names.
 
