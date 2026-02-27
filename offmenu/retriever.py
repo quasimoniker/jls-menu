@@ -23,27 +23,24 @@ index = pc.Index(PINECONE_INDEX)
 anthropic = Anthropic(api_key=get_secret("ANTHROPIC_API_KEY"))
     
 def find_episode_filter(question):
-    # get all unique guests from pinecone by querying with a dummy vector
-    # instead, we'll just check if any known guest name appears in the question
-    # fetch index stats to get all unique episodes isn't straightforward,
-    # so we'll maintain a simple lookup from our chunks.json
-    import json
-    with open("data/chunks.json", "r", encoding="utf-8") as f:
-        chunks = json.load(f)
+    import csv
+    import os
+    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    csv_path = os.path.join(base_dir, "data", "menu_choices.csv")
     
-    # build a lookup of guest name -> episode number
     lookup = {}
-    for chunk in chunks:
-        guest = chunk["guest"].lower()
-        lookup[guest] = chunk["episode"]
+    with open(csv_path, "r", encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            guest = row["guest"].strip().lower()
+            lookup[guest] = row["episode"]
     
     question_lower = question.lower()
     for guest, episode in lookup.items():
-        # check if any word sequence in the guest name appears in the question
         if guest in question_lower:
             return episode
     
-    return None  # no filter, search everything
+    return None
 
 def retrieve(question):
     episode_filter = find_episode_filter(question)
