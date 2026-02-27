@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+pymupdf
+voyageai
+pinecone
+python-dotenv
+anthropic
+streamlit
+pandas
